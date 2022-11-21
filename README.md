@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AneeqUllahKhan
 - 👀 I’m interested in Web & App Development
-- 🌱 I’m currently learning Php and React JS
+- 🌱 I’m currently learning Php, Laravel, React JS and React Native
 - 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me aneequllah.khan@outlook.com
 
