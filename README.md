@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aneeq Ullah Khan</h1>
+<h1 align="center">Hi , I'm Aneeq Ullah Khan 👋</h1>
 <h3 align="center">React Developer | PHP Developer</h3>
 
 
