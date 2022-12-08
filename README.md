@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aneeq Ullah Khan</h1>
-<h3 align="center">React Developer | Php Developer</h3>
+<h3 align="center">React Developer | PHP Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneequllahkhan&label=Profile%20views&color=0e75b6&style=flat" alt="aneequllahkhan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/turja_etho" target="blank"><img src="https://img.shields.io/twitter/follow/turja_etho?logo=twitter&style=for-the-badge" alt="turja_etho" /></a> </p>
 
@@ -33,3 +32,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AneeqUllahKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqUllahKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=AneeqUllahKhan&icon=9&color=0)](https://visitcount.itsvg.in)
