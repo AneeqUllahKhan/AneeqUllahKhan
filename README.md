@@ -2,8 +2,6 @@
 <h3 align="center">React Developer | PHP Developer</h3>
 
 
-<p align="left"> <a href="https://twitter.com/turja_etho" target="blank"><img src="https://img.shields.io/twitter/follow/turja_etho?logo=twitter&style=for-the-badge" alt="turja_etho" /></a> </p>
-
 - 🔭 I’m currently studying **Bachelor's in Computer Science**
 
 - 🌱 I’m currently learning **React JS and React Native, Php, Laravel, Redux, Firebase, Node JS**
