@@ -1,18 +1,6 @@
-<h1 align="center">Hi , I'm Aneeq Ullah Khan 👋</h1>
-<h3 align="center">React Developer | PHP Developer</h3>
+<h1 align="center">Hi there👋</h1>
 
-
-- 🔭 I’m currently studying **Bachelor's in Computer Science**
-
-- 🌱 I’m currently learning **React JS and React Native, Php, Laravel, Redux, Firebase, Node JS**
-
-- 👯 I’m looking to collaborate with **companies**
-
-- ⚡ Fun fact [😂🙃](😂🙃)
-
-- 💬 Ask me about **React & Php**
-
-- 📫 How to reach me **aneequllah.khan@outlook.com**
+I'm Aneeq Ullah Khan, currently working as a **React Developer & PHP Developer** also I’m currently studying **Bachelor's in Computer Science**. I’m currently learning **React JS and React Native, Php, Laravel, Redux, Firebase, Node JS, API's, Databases, Cloud Computing & AI**. This is my github many excitings codes are here just explore more or Find out more about me & feel free to contact me How to reach me **aneequllah.khan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
