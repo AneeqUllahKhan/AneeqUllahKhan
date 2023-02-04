@@ -46,6 +46,6 @@ I'm Aneeq Ullah Khan, currently working as a **React Developer & PHP Developer**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqUllahKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🤝 GitHub Contributions:
-![](https://github-readme-activity-graph.cyclic.app/graph?username=AneeqUllahKhan&bg_color=171717&color=ffffff&line=5fc0d3&point=23a8e1&area=true&hide_border=true)]
+![](https://github-readme-activity-graph.cyclic.app/graph?username=AneeqUllahKhan&bg_color=171717&color=ffffff&line=5fc0d3&point=23a8e1&area=true&hide_border=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=AneeqUllahKhan&icon=9&color=0)](https://visitcount.itsvg.in)
