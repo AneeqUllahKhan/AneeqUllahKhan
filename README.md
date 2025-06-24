@@ -42,10 +42,18 @@ I'm Aneeq Ullah Khan, currently working as a **React Developer & PHP Developer**
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AneeqUllahKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqUllahKhan&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🤝 GitHub Contributions:
-![](https://github-readme-activity-graph.cyclic.app/graph?username=AneeqUllahKhan&bg_color=171717&color=ffffff&line=5fc0d3&point=23a8e1&area=true&hide_border=true)
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AneeqUllahKhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AneeqUllahKhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=AneeqUllahKhan&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AneeqUllahKhan&icon=0&color=0)](https://visitcount.itsvg.in)
