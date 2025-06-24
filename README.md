@@ -94,8 +94,10 @@ I'm Aneeq Ullah Khan, currently working as a **React Developer & PHP Developer**
 <br/>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqUllahKhan&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 GitHub Trophies
