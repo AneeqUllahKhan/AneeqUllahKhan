@@ -145,8 +145,8 @@ Claude Code · Gemini · Google AI Studio
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AneeqUllahKhan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=94A3B8&icon_color=38BDF8&text_color=CBD5E1&ring_color=38BDF8&border_radius=10&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeqUllahKhan&layout=compact&hide_border=true&bg_color=0D1117&title_color=94A3B8&text_color=CBD5E1&border_radius=10&langs_count=8" alt="Top languages" />
+<img src="assets/stats.svg" height="200" alt="GitHub overview" />
+<img src="assets/languages.svg" height="200" alt="Top languages" />
 
 <br/><br/>
 
@@ -154,7 +154,7 @@ Claude Code · Gemini · Google AI Studio
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AneeqUllahKhan&bg_color=0D1117&color=94A3B8&line=38BDF8&point=E2E8F0&area=true&area_color=334155&hide_border=true&radius=10" alt="Activity graph" width="95%" />
+<img src="https://ghchart.rshah.org/38bdf8/AneeqUllahKhan" alt="Contribution graph" width="90%" />
 
 <br/><br/>
 
@@ -165,9 +165,6 @@ Claude Code · Gemini · Google AI Studio
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AneeqUllahKhan/AneeqUllahKhan/output/github-snake-dark.svg" width="95%" />
 </picture>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AneeqUllahKhan&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
 
 </div>
 
